@@ -1,0 +1,19 @@
+Multi Agents com CrewAI:
+
+Papel (Role Playing): Cada agente pode assumir um papel ou função específica, 
+permitindo especialização e distribuição eficiente das tarefas.
+
+Foco (Focus): Os agentes podem se concentrar em objetivos ou tarefas específicas, 
+melhorando o desempenho e reduzindo distrações.
+
+Ferramentas (Tools): Os agentes podem utilizar ferramentas externas (APIs, bancos de dados, etc.) 
+para ampliar suas capacidades e resolver problemas complexos.
+
+Cooperação (Cooperation): Os agentes trabalham juntos, compartilhando informações e 
+coordenando ações para atingir objetivos comuns.
+
+Restrições (Guardrails): São definidos limites ou regras para garantir que 
+os agentes atuem de forma segura e ética, evitando comportamentos indesejados.
+
+Memória (Memory): Os agentes mantêm informações de interações passadas, 
+permitindo aprender, adaptar-se e tomar melhores decisões ao longo do tempo.
