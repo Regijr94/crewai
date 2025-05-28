@@ -1,4 +1,4 @@
-Multi Agents com CrewAI:
+Multi Agents com CrewAI seis características que tornam um a gente melhor:
 
 Papel (Role Playing): Cada agente pode assumir um papel ou função específica, 
 permitindo especialização e distribuição eficiente das tarefas.
@@ -17,3 +17,22 @@ os agentes atuem de forma segura e ética, evitando comportamentos indesejados.
 
 Memória (Memory): Os agentes mantêm informações de interações passadas, 
 permitindo aprender, adaptar-se e tomar melhores decisões ao longo do tempo.
+
+No CrewAI é possível utilizar três tipos de memorias são elas:
+
+1) Short Term Memory no CrewAI é um tipo de memória temporária que persiste apenas durante a execução da sessão atual. 
+Sua principal função é facilitar a comunicação entre agentes, 
+permitindo que eles compartilhem informações relevantes como conhecimento, contexto, atividades realizadas e aprendizados obtidos durante a interação. 
+Esta memória é essencial para manter a coesão e continuidade do trabalho colaborativo entre os agentes durante uma sessão específica.
+
+2) Long Term Memory no CrewAI é um tipo de memória persistente que armazena informações importantes para uso futuro. 
+Diferente da memória de curto prazo, ela mantém dados relevantes entre diferentes sessões de execução, 
+permitindo que os agentes acessem conhecimento histórico e experiências passadas. 
+Esta memória é útil para manter consistência em projetos de longo prazo e para que os agentes possam 
+aprender e melhorar continuamente com base em interações anteriores.
+
+3) Entity Memory no CrewAI é um tipo de memória especializada que se concentra em armazenar e gerenciar informações sobre entidades específicas
+ (como pessoas, organizações, objetos ou conceitos). Esta memória permite que os agentes mantenham um registro detalhado e estruturado de dados relacionados a entidades importantes, 
+ facilitando o rastreamento de relacionamentos, atributos e interações específicas. 
+ É particularmente útil em cenários onde é necessário manter um histórico consistente sobre entidades específicas ao longo do tempo,
+ permitindo que os agentes tomem decisões mais informadas baseadas no conhecimento acumulado sobre essas entidades.
